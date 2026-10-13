@@ -1,4 +1,3 @@
-```markdown
 # Human-Centered Multimodal Verification Agent on LINE
 ### Submodule: AI-Generated & Manipulated Media Detection Under Platform Degradation
 
@@ -39,9 +38,6 @@ Incoming LINE Media
         │
         ▼
 Explainable Output (3-Level Progressive Disclosure for Thai Seniors)
-
-```
-
 ---
 
 ## 🔬 Experimental Roadmap
