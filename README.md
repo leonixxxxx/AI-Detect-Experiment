@@ -39,7 +39,7 @@ Incoming LINE Media
         ▼
 Explainable Output (3-Level Progressive Disclosure for Thai Seniors)
 ---
-
+```
 ## 🔬 Experimental Roadmap
 
 | Phase | Method / Model | Primary Objective | Status |
